@@ -1,0 +1,21 @@
+/* PROGRAM FOR MAKE A GRAPH AND DO A DFS
+  % 
+  % Author: Shivam Prasad (prasadshivam2296@gmail.com) 
+  % Roll no.  :B15CS034 
+  % Date:    14th Nov 2016 
+  % Course:  Data Structures(CS202)
+  % Course Instructor: Dr. Rajarshi Ray
+  % 
+  % 
+  % Description: The program can 1. CREATE A GRAPH FROM A ADJACENCY MATRIX
+                                 		    2. DO A DFS IN THE GRAPH
+			    3. CHECK IF REACHABLE
+  */ 
+
+     HOW TO EXECUTE:
+1) Open the file source.c using a IDE such as Dev CPP(originality used for coding) , CodeBlocks,etc.
+2) Compile and run the code. (Ctrl+F9)
+3) Give the input to the program according to the instructions on the screen. 
+4) It is advisable to use a full screen for the output screen.
+
+   
