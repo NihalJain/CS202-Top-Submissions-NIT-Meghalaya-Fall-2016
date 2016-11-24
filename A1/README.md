@@ -1,4 +1,4 @@
-#Assignment 1
+#Assignment 1 - Singly Linked List
 
  Implement a singly linked list. It should support the following functions:
  - Insertion at the beginning of the list

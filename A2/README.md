@@ -1,4 +1,4 @@
-#Assignment 2
+#Assignment 2 - Josephus problem
 
 Solve the Josephus problem (https://en.wikipedia.org/wiki/Josephus_problem) using circular linked list. Design following functions:
 

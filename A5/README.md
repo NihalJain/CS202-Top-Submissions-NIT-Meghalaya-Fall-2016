@@ -1,4 +1,4 @@
-#Assignment 5
+#Assignment 5 - NQueens Problem
 
 Solve the N queens problem using backtracking. 
 
