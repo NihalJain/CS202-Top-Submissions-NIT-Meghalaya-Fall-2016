@@ -1,4 +1,6 @@
-Solve Josephus problem using circular linked list. Design following functions:
+#Assignment 2
+
+Solve the Josephus problem (https://en.wikipedia.org/wiki/Josephus_problem) using circular linked list. Design following functions:
 
 - A function to create the initial army, ask user for number of soldiers in the army, insert each new soldier at the end of the list. Store soldiers name in the linked list, instead of just numbers.
 
